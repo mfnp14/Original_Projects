@@ -23,5 +23,5 @@ connected to is the reference one).
 
 	Further info on how each function works can be found within its introduction in each file.
 
-	Hope this may help any member in this community and look forward to get feedback as well as to
-hear how much help these files provided you.
+	Hope this may help any member in this community and look forward to getting feedback as well as to
+hearing how much help these files provided you.
